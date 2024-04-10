@@ -12,7 +12,6 @@ This repository contains proof of certification for each course.
 - [Foundations of Data Science](Foundations%20of%20Data%20Science/)
 - [Get Started with Python](Get%20Started%20with%20Python/)
 - [Go Beyond the Numbers Translate Data into Insights](Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/)
-(Python%20for%20Data%20Science%2C%20AI%20%26%20Development/)
 - [Regression Analysis Simplify Complex Data Relationships](Regression%20Analysis%20Simplify%20Complex%20Data%20Relationships/)
 - [The Nuts and Bolts of Machine Learning](The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/)
 - [The Power of Statistics](The%20Power%20of%20Statistics/)
