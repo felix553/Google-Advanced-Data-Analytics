@@ -45,4 +45,11 @@ The following Python libraries were used throughout the certification: <br>
 </p>
 (Pandas, NumPy, SciPy, matplotlib, seaborn, plotly, scikit-learn)
 
+## 🏆 Certificate 
+To verify the certificates, click the images to follow the links.
+
+<p align="middle">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/VP9CMTH4KRJA"><img src="Certificate.jpeg" height="430"></a>
+
+</p>
 
